@@ -3,6 +3,8 @@
 ## Overview
 
 This repository contains the solution to performing a data exploration, followed by creating a binary classifier using logistic regression to determine if a new client will bring gains to the insurance company (achieving an F1 score of 0.9485), and finally forecasting the gains of the company grouped by months using an ARIMA model.
+
+
 ![forecast_plot](https://github.com/karimbenjrad/Customer-profiling-and-forecasting/assets/57772372/1695626d-e832-41bd-a607-c80c5cabfb86)
 
 ## Dataset
